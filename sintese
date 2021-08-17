@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Tipos de software de Controle de Versão</h1>
+    <p></p>
+        <b>Centralizado</b> contém um repositório central em um servidor com controle de versões. 
+    </p>
+    <h2>Centralizado</h2>
+    <p>
+        Contém um repositório central em um servidor que tem controle de versões. Depende do servidor.
+<br>software subersion.
+    </p>
+    <h2>Distribuído</h2>
+    <p>
+        Contém um repositório local com controle de versões.<br>
+        Atulizações no repositório central.<br>
+        Independente do servidor<br>
+        Softwares Mercurial, Git. 
+    </p>
+    <h1>GIT</h1>
+    <p>
+        Plataforma de hospedagem código-fonte e arquivos com controle de versão.<br>
+
+Surgiu em 2008 e foi adquirido em 2018 pela microsoft por U$7,5 bilhões<br>
+
+=100 milhões de projetos.<br>
+=56 milhões de usuários. 
+    </p>
+
+    <h1>Comandos GIT</h1>
+    <p>
+        <ol>
+            <li><b>commit</b> </li>torna permanente um conjunto de alterações em um repositório.
+            <li><b>push</b></li> evia alterações para o servidor no repositório remoto.
+            <li><b>fetch</b></li> verifica o seu repositório local está em sicronia com o remoto.
+            <li><b>pull</b></li> sincroniza o repositório local com o remoto atualizando as versões.
+            
+        </ol>
+    </p>
+
+    
+</body>
+</html>
